@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    line-height: 200%;  
+    margin: auto; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+   }
+#heading{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+   #instructions{
+       margin-left: 20px;
+       
+   }
+
+   #randomNumber{
+    margin-left: 20px;
+    font-weight: bold;  
+   }
+
+   h2{
+       font-weight: bold;
+   }
+
+   #wins-losses{
+    margin-left: 20px;
+    font-weight: bold;  
+   }
+
+   #crystals{
+    margin-left: 20px;  
+   }
+
+   #section2{
+    margin-left: 20px;
+    font-weight: bold; 
+   }
+   
